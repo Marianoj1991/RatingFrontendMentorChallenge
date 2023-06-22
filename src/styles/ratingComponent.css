@@ -1,0 +1,28 @@
+
+.container {
+    width: 375px;
+    height: 380px;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 30px;
+    color: hsl(0, 0%, 100%);
+    padding: 30px;
+}
+
+.button-container {
+    margin-bottom: 30px;
+}
+
+.title-card {
+    font-size: 20px;
+}
+
+.text-card {
+    font-size: 14px;
+}
+
+.buttons-card {
+    display: flex;
+    gap: 30px;
+    margin: 30px 0px;
+    justify-content: center;
+}

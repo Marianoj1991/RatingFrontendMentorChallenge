@@ -1,0 +1,28 @@
+.container-rated {
+  width: 375px;
+  height: 380px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(213, 19%, 18%);
+  border-radius: 30px;
+  color: hsl(0, 0%, 100%);
+  padding: 30px;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+.text-rank {
+    background-color: hsl(213, 19%, 25%);
+    padding: 5px 15px;
+    border-radius: 25px;
+    color: hsl(25, 97%, 53%);
+    margin-bottom: 20px;
+}
+
+.text-thanks {
+    text-align: center;
+}
